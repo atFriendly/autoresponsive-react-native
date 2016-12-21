@@ -14,7 +14,7 @@ Live demo & docs: [xudafeng.github.io/autoresponsive-react](https://xudafeng.git
 ## Installation
 
 ```shell
-$ npm install autoresponsive-react-native --save
+$ npm install react-native-autoresponsive --save
 ```
 
 ## Contributing

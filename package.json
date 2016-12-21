@@ -1,6 +1,6 @@
 {
   "name": "react-native-autoresponsive",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "auto responsive grid layout library",
   "keywords": [
     "react",
@@ -24,15 +24,15 @@
     "test": "make test"
   },
   "dependencies": {
-    "react-native": ">=0.19.0",
-    "autoresponsive-common": "~1.0.0"
+    "react-native": "~0.39.2",
+    "autoresponsive-common": "~1.0.1"
   },
   "precommit": [
     "lint"
   ],
   "devDependencies": {
-    "react": "~0.13.1",
-    "eslint-plugin-react": "~2.5.2"
+    "react": "~15.4.1",
+    "eslint-plugin-react": "~6.8.0"
   },
   "startserver": [
     {
