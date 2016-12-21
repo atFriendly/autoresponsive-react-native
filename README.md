@@ -3,6 +3,8 @@ autoresponsive-react-native
 
 Auto responsive grid layout library for [ReactNative](https://facebook.github.io/react-native/).
 
+Forked from [https://github.com/xudafeng/autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native)
+
 ## Examples
 
 Live demo & docs: [xudafeng.github.io/autoresponsive-react](https://xudafeng.github.io/autoresponsive-react/)
