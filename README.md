@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 react-native-autoresponsive
-===========================
-=======
-# autoresponsive-react-native
->>>>>>> xudafeng/master
 
 Auto responsive grid layout library for [ReactNative](https://facebook.github.io/react-native/).
 
